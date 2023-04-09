@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabh2006
 - 👀 I’m interested in AI development and machine learning. 
-- 🌱 I’m currently learning c++. 
+- 🌱 I’m currently learning c++ and python.
 - 💞️ I’m looking to collaborate on beginner/intermediate projects that will help me to increase my skills and learn new concpets. 
 - 📫 You can reach me at prabhgunbhatia06@gmail.com
 
