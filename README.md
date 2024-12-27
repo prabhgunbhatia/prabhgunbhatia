@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Prabh2006
-- 👀 I’m interested in AI development and machine learning. 
-- 🌱 I’m currently learning c++ and python.
-- 💞️ I’m looking to collaborate on beginner/intermediate projects that will help me to increase my skills and learn new concpets. 
-- 📫 You can reach me at prabhgunbhatia06@gmail.com
+# 💻 Prabhgun Bhatia  
 
-<!---
-Prabh2006/Prabh2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm **Prabhgun Bhatia**, a first-year Computer Science student at the **University of Waterloo**. I'm passionate about technology, learning new things, and creating cool projects.  
+
+## 🌟 About Me  
+- 🎓 **Student**: University of Waterloo, Computer Science (Class of 2029)  
+- 🌐 **Interests**: Web Development, Software Engineering, and Machine Learning  
+- 🛠️ **Skills**:  
+  - **Programming Languages**:  
+    - HTML, CSS, JavaScript, Node.js (Web Development)  
+    - MySQL, MongoDB (Databases)  
+    - Racket, C, Python (General Programming)  
+  - **Currently Learning**:
+    - Building responsive web apps and exploring more advanced backend technologies.
+
+## 📈 GitHub Stats  
+ 
+
+## 📫 How to Reach Me  
+- 📧 **Email**: prabhgunbhatia06@gmail.com 
+- 🌐 **LinkedIn**: https://www.linkedin.com/in/prabhgunbhatia/ 
+
+Thanks for visiting my profile! Let's connect and collaborate on interesting projects. 🚀  
