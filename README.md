@@ -12,8 +12,6 @@
     - Racket, C, Python (General Programming)  
   - **Currently Learning**:
     - Building responsive web apps and exploring more advanced backend technologies.
-
-## 📈 GitHub Stats  
  
 
 ## 📫 How to Reach Me  
