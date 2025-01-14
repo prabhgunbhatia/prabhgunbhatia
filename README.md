@@ -2,16 +2,14 @@
 
 👋 Hi there! I'm **Prabhgun Bhatia**, a first-year Computer Science student at the **University of Waterloo**. I'm passionate about technology, learning new things, and creating cool projects.  
 
-## 🌟 About Me  
+##  About Me  
 - 🎓 **Student**: University of Waterloo, Computer Science (Class of 2029)  
 - 🌐 **Interests**: Web Development, Software Engineering, and Machine Learning  
-- 🛠️ **Skills**:  
-  - **Programming Languages**:  
-    - HTML, CSS, JavaScript, Node.js (Web Development)  
-    - MySQL, MongoDB (Databases)  
-    - Racket, C, Python (General Programming)  
-  - **Currently Learning**:
-    - Building responsive web apps and exploring more advanced backend technologies.
+- 🛠️ **Technical Skills**
+ 
+    - **Languages:** JavaScript, Python, TypeScript, C, Racket, HTML, CSS
+    - **Technologies:** MySQL, Flask, MongoDB, Express.js, React.js, Node.js, Next.js, Bootstrap
+    - **Developer Tools:** Git, AWS EC2, Linux, Visual Studio Code, Figma, Postman, SDLC
  
 
 ## 📫 How to Reach Me  
