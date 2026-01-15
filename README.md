@@ -1,6 +1,6 @@
 # 💻 Prabhgun Bhatia  
 
-👋 Hi there! I'm **Prabhgun Bhatia**, a first-year Computer Science student at the **University of Waterloo**. I'm passionate about technology, learning new things, and creating cool projects.  
+ Hi there! I'm **Prabhgun Bhatia**, a second-year Computer Science student at the **University of Waterloo**. I'm passionate about technology, learning new things, and creating cool projects.  
 
 ##  About Me  
 - 🎓 **Student**: University of Waterloo, Computer Science (Class of 2029)  
@@ -16,4 +16,4 @@
 - 📧 **Email**: prabhgunbhatia06@gmail.com 
 - 🌐 **LinkedIn**: https://www.linkedin.com/in/prabhgunbhatia/ 
 
-Thanks for visiting my profile! Let's connect and collaborate on interesting projects. 🚀  
+Thanks for visiting my profile! Let's connect and collaborate on interesting projects. 
