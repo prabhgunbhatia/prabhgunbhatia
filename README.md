@@ -4,23 +4,11 @@ Computer Science student at the University of Waterloo (Class of 2029) with inte
 
 ---
 
-## Skills
-
-**Languages:**  
-JavaScript, TypeScript, Python, C, Racket, HTML, CSS
-
-**Frameworks & Technologies:**  
-React, Next.js, Node.js, Express, Flask, MongoDB, MySQL
-
-**Tools & Platforms:**  
-Git, GitHub, AWS EC2, Linux, VS Code, Postman, Figma
-
----
-
 ## Contact
 
 - **Email:** prabhgunbhatia06@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/prabhgunbhatia/
+- **Portflio:** https://prabhgunbhatia.com
 
 ---
 
