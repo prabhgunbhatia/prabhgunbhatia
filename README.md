@@ -1,19 +1,35 @@
-# 💻 Prabhgun Bhatia  
+# Prabhgun Bhatia
 
- Hi there! I'm **Prabhgun Bhatia**, a second-year Computer Science student at the **University of Waterloo**. I'm passionate about technology, learning new things, and creating cool projects.  
+Computer Science student at the University of Waterloo (Class of 2029) with interests in software engineering, web development, and applied machine learning.
 
-##  About Me  
-- 🎓 **Student**: University of Waterloo, Computer Science (Class of 2029)  
-- 🌐 **Interests**: Web Development, Software Engineering, and Machine Learning  
-- 🛠️ **Technical Skills**
- 
-    - **Languages:** JavaScript, Python, TypeScript, C, Racket, HTML, CSS
-    - **Technologies:** MySQL, Flask, MongoDB, Express.js, React.js, Node.js, Next.js, Bootstrap
-    - **Developer Tools:** Git, AWS EC2, Linux, Visual Studio Code, Figma, Postman, SDLC
- 
+---
 
-## 📫 How to Reach Me  
-- 📧 **Email**: prabhgunbhatia06@gmail.com 
-- 🌐 **LinkedIn**: https://www.linkedin.com/in/prabhgunbhatia/ 
+## Skills
 
-Thanks for visiting my profile! Let's connect and collaborate on interesting projects. 
+**Languages:**  
+JavaScript, TypeScript, Python, C, Racket, HTML, CSS
+
+**Frameworks & Technologies:**  
+React, Next.js, Node.js, Express, Flask, MongoDB, MySQL
+
+**Tools & Platforms:**  
+Git, GitHub, AWS EC2, Linux, VS Code, Postman, Figma
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhgunbhatia&show_icons=true&hide_title=true&hide_rank=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhgunbhatia&layout=compact&hide_title=true)
+
+---
+
+## Contact
+
+- **Email:** prabhgunbhatia06@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/prabhgunbhatia/
+
+---
+
+*Always open to collaborating on interesting projects or learning from others.*
