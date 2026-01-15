@@ -17,14 +17,6 @@ Git, GitHub, AWS EC2, Linux, VS Code, Postman, Figma
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhgunbhatia&show_icons=true&hide_title=true&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhgunbhatia&layout=compact&hide_title=true)
-
----
-
 ## Contact
 
 - **Email:** prabhgunbhatia06@gmail.com  
